@@ -1,0 +1,3 @@
+Sample file for QA Mart Lab
+
+This file is a simple example for practicing repository changes.
