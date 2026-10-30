@@ -19,6 +19,14 @@ npm test
 
 For the Copilot playground, continue with [exercises/00-start-here.md](exercises/00-start-here.md).
 
+## Optional capstone plugin
+
+[QA Mart Capstone Plugin](qa-mart-capstone-plugin/README.md) adds two of each
+customization type: instructions, prompts, skills, agents, MCP servers and hooks.
+It reuses the existing test framework without replacing the app, working tests,
+configuration or other plugins. See its README for local installation, workspace
+instruction/prompt activation and verification.
+
 ## 2. Look around the app
 ```bash
 npm start

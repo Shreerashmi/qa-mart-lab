@@ -13,6 +13,11 @@
       "name": "qamart-testing-plugin",
       "source": "./qamart-testing-plugin",
       "description": "QA Mart testing plugin: agents, skills, prompts, hooks and MCP configuration for planning, generating, reviewing and triaging Playwright + TypeScript tests."
+    },
+    {
+      "name": "qa-mart-capstone",
+      "source": "./qa-mart-capstone-plugin",
+      "description": "Additive QA Mart capstone: two instructions, prompts, skills, agents, MCP servers and hooks, with dependency-free integration tests."
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "qa-mart-capstone",
+  "version": "1.0.0",
+  "description": "Additive QA Mart test planning, generation, regression review and evidence-based triage using the existing Playwright framework.",
+  "author": { "name": "Shreerashmi" },
+  "repository": "https://github.com/Shreerashmi/qa-mart-lab",
+  "keywords": ["qa-mart", "playwright", "typescript", "testing", "mcp"]
+}
